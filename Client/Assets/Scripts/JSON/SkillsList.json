@@ -1,0 +1,47 @@
+[
+  {
+    "Name":"Ball of Energy",
+    "Type":"Attack",
+    "EnergyCost":"0",
+    "Amount":"2",
+    "UseCount":"999",
+    "Range":"1000",
+    "Sprite":"Assets/Sprites/Skills/BallOfEnergy.png"
+  },
+  {
+    "Name":"Beam Slash",
+    "Type":"Attack",
+    "EnergyCost":"2",
+    "Amount":"4",
+    "UseCount":"999",
+    "Range":"0",
+    "Sprite":"Assets/Sprites/Skills/BeamSlash.png"
+  },
+  {
+    "Name":"Rock Wall",
+    "Type":"Defense",
+    "EnergyCost":"2",
+    "Amount":"6",
+    "UseCount":"1",
+    "Range":"0",
+    "Sprite":"Assets/Sprites/Skills/RockShield.png"
+  },
+  {
+    "Name":"Energy Shield",
+    "Type":"Defense",
+    "EnergyCost":"1",
+    "Amount":"2",
+    "UseCount":"999",
+    "Range":"0",
+    "Sprite":"Assets/Sprites/Skills/EnergyShield.png"
+  },
+  {
+    "Name":"Heal",
+    "Type":"Status",
+    "EnergyCost":"4",
+    "Amount":"5",
+    "UseCount":"1",
+    "Range":"0",
+    "Sprite":"Assets/Sprites/Skills/Heal.png"
+  }
+]
